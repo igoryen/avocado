@@ -1,0 +1,53 @@
+  body {background-color: gray;}
+
+  div.base{
+    text-align: center;
+    background-color: lightgray;
+    border-radius: 5px;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    font-size: 40px;
+    font-family: monospace;
+    box-shadow: 10px 10px 10px black;
+    padding: 10px;
+  }
+
+  div.level02{
+    text-align: center;
+    background-color: lightblue;
+    width: 300px;
+    height: 50px;
+    margin: auto;
+    font-size: 20px;
+    font-family: monospace;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px black;
+
+
+  }
+
+
+  div.level03{
+    text-align: center;
+    background-color: lightgreen;
+    width: 800px;
+    /*height: 50px;*/
+    margin: auto;
+    font-size: 14px;
+    font-family: sans-serif;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px black;
+    padding: 10px;
+
+  }
+  h1   {font-size:36pt;}
+
+
+  h2   {color:blue;}
+
+  lf{ /*lf = larger font*/
+    font-size: 30px; 
+  }
+  p    {margin-left:50px;}    
